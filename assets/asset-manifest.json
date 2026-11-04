@@ -1,0 +1,53 @@
+{
+  "project": "Constance's Summer Intern",
+  "chapter_id": "experimental-resume-screening",
+  "chapter_number": null,
+  "runtime_assets": [
+    "public/assets/backgrounds/office_evening.png",
+    "public/assets/backgrounds/resume_desk.png",
+    "public/assets/characters/david_simon_angry.png",
+    "public/assets/characters/david_simon_happy.png",
+    "public/assets/characters/david_simon_neutral.png",
+    "public/assets/characters/david_simon_smirk.png",
+    "public/assets/characters/david_simon_talking.png",
+    "public/assets/characters/david_simon_tired.png",
+    "public/assets/characters/emily_chen_angry.png",
+    "public/assets/characters/emily_chen_happy.png",
+    "public/assets/characters/emily_chen_neutral.png",
+    "public/assets/characters/emily_chen_smirk.png",
+    "public/assets/characters/emily_chen_talking.png",
+    "public/assets/characters/emily_chen_tired.png",
+    "public/assets/characters/mark_keller_angry.png",
+    "public/assets/characters/mark_keller_happy.png",
+    "public/assets/characters/mark_keller_neutral.png",
+    "public/assets/characters/mark_keller_smirk.png",
+    "public/assets/characters/mark_keller_talking.png",
+    "public/assets/characters/mark_keller_tired.png",
+    "public/assets/ui/btn_keep.png",
+    "public/assets/ui/btn_maybe.png",
+    "public/assets/ui/btn_neutral.png",
+    "public/assets/ui/btn_reject.png",
+    "public/assets/ui/dialogue_panel.png",
+    "public/assets/ui/header_strip.png",
+    "public/assets/ui/nameplate.png",
+    "public/assets/ui/page_flip_hint.png",
+    "public/assets/ui/resume_paper_blank.png",
+    "public/assets/ui/small_badge.png"
+  ],
+  "source_packs": [
+    {
+      "path": "resources/source-packs/Constance_Summer_Intern_MVP_Codex_Pack.zip",
+      "sha256": "430ba93dfce695fe002020eaa406073cb0390fce24f9520c3adc44d5478c542f"
+    },
+    {
+      "path": "resources/source-packs/Constance_Resume_Screening_Composable_Assets.zip",
+      "sha256": "ff8c2c03084c509779e266af9532b7a2cbc5d74cdddca1e5691fd7d76023d7c2"
+    }
+  ],
+  "notes": [
+    "Dialogue scenes always use backgrounds/office_evening.png.",
+    "Resume screening uses backgrounds/resume_desk.png; the desk scene background remains fixed during candidate changes.",
+    "Temporary character portraits are chest-up and can be replaced with waist-up art using the same filenames.",
+    "The duplicate Codex pack with the (1) suffix was verified identical and was not duplicated into the project."
+  ]
+}
