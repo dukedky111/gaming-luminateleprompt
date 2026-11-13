@@ -5,6 +5,7 @@
   "runtime_assets": [
     "public/assets/backgrounds/office_evening.png",
     "public/assets/backgrounds/resume_desk.png",
+    "public/assets/backgrounds/wardrobe_challenge.png",
     "public/assets/characters/david_simon_angry.png",
     "public/assets/characters/david_simon_happy.png",
     "public/assets/characters/david_simon_neutral.png",
@@ -47,6 +48,7 @@
   "notes": [
     "Dialogue scenes always use backgrounds/office_evening.png.",
     "Resume screening uses backgrounds/resume_desk.png; the desk scene background remains fixed during candidate changes.",
+    "The wardrobe challenge uses backgrounds/wardrobe_challenge.png for interactive outfit selection in early morning light; dialogue scenes remain in the office.",
     "Temporary character portraits are chest-up and can be replaced with waist-up art using the same filenames.",
     "The duplicate Codex pack with the (1) suffix was verified identical and was not duplicated into the project."
   ]
