@@ -3,9 +3,23 @@
   "chapter_id": "experimental-resume-screening",
   "chapter_number": null,
   "runtime_assets": [
+    "public/assets/backgrounds/closing_dinner.png",
+    "public/assets/backgrounds/coffee_shop.png",
+    "public/assets/backgrounds/conference_room.png",
+    "public/assets/backgrounds/holiday_party.png",
     "public/assets/backgrounds/office_evening.png",
+    "public/assets/backgrounds/office_morning.png",
+    "public/assets/backgrounds/office_night.png",
     "public/assets/backgrounds/resume_desk.png",
+    "public/assets/backgrounds/title_keyart.png",
+    "public/assets/backgrounds/trading_floor.png",
     "public/assets/backgrounds/wardrobe_challenge.png",
+    "public/assets/characters/brett_angry.png",
+    "public/assets/characters/brett_happy.png",
+    "public/assets/characters/brett_neutral.png",
+    "public/assets/characters/brett_smirk.png",
+    "public/assets/characters/brett_talking.png",
+    "public/assets/characters/brett_tired.png",
     "public/assets/characters/david_simon_angry.png",
     "public/assets/characters/david_simon_happy.png",
     "public/assets/characters/david_simon_neutral.png",
@@ -24,6 +38,12 @@
     "public/assets/characters/mark_keller_smirk.png",
     "public/assets/characters/mark_keller_talking.png",
     "public/assets/characters/mark_keller_tired.png",
+    "public/assets/characters/tyler_angry.png",
+    "public/assets/characters/tyler_happy.png",
+    "public/assets/characters/tyler_neutral.png",
+    "public/assets/characters/tyler_smirk.png",
+    "public/assets/characters/tyler_talking.png",
+    "public/assets/characters/tyler_tired.png",
     "public/assets/ui/btn_keep.png",
     "public/assets/ui/btn_maybe.png",
     "public/assets/ui/btn_neutral.png",
@@ -33,7 +53,10 @@
     "public/assets/ui/nameplate.png",
     "public/assets/ui/page_flip_hint.png",
     "public/assets/ui/resume_paper_blank.png",
-    "public/assets/ui/small_badge.png"
+    "public/assets/ui/small_badge.png",
+    "public/icons/icon-180.png",
+    "public/icons/icon-32.png",
+    "public/icons/icon-512.png"
   ],
   "source_packs": [
     {
@@ -50,6 +73,7 @@
     "Resume screening uses backgrounds/resume_desk.png; the desk scene background remains fixed during candidate changes.",
     "The wardrobe challenge uses backgrounds/wardrobe_challenge.png for interactive outfit selection in early morning light; dialogue scenes remain in the office.",
     "Temporary character portraits are chest-up and can be replaced with waist-up art using the same filenames.",
-    "The duplicate Codex pack with the (1) suffix was verified identical and was not duplicated into the project."
+    "The duplicate Codex pack with the (1) suffix was verified identical and was not duplicated into the project.",
+    "2026-11-24: GPT-image art drop (output/goodman-generated-art, not in git): office_morning/office_night (the level scene swaps the office by its clock), conference_room, holiday_party, closing_dinner, coffee_shop, trading_floor, title_keyart, app icons, and Brett/Tyler expression sheets cut by tools/cut_portrait_sheet.py."
   ]
 }
